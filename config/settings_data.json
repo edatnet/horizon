@@ -1,5 +1,9 @@
 {
   "current": {
+    "type_body_font": "quicksand_n4",
+    "type_subheading_font": "quicksand_n4",
+    "type_heading_font": "quicksand_n4",
+    "type_accent_font": "quicksand_n4",
     "type_line_height_h1": "display-tight",
     "type_letter_spacing_h1": "heading-tight",
     "type_font_h1": "heading",
